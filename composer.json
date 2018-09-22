@@ -1,0 +1,15 @@
+{
+    "name": "dipakyadav/composer_demo",
+    "description": "Demo package for using composer.",
+    "type": "project",
+    "license": "GNU GPL v3",
+    "authors": [
+        {
+            "name": "Dipak Yadav",
+            "email": "dipakmdhrm@gmail.com"
+        }
+    ],
+    "require": {
+        "rivsen/hello-world": "^0.1.0"
+    }
+}
